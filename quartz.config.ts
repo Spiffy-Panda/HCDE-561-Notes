@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "cptspiffypanda.github.io/HCDE561-Journal",
+    baseUrl: "spiffy-panda.github.io/HCDE-561-Notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
