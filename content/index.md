@@ -15,6 +15,7 @@ All content is authored through a Claude Code workflow: conversation transcripts
 ## Sections
 
 - [Three-C Reflections](three-c-reflections) — Weekly Curiosity, Connections, and Creating Value free-writes
+- [Class Notes](class-notes) — Running notes from each session — discussions, frameworks, and key concepts
 - [Reading Artifacts](reading-artifacts) — Weekly reading responses and AI-assisted analysis
 - [Assignments](assignments) — Homework submissions and supporting artifacts
 - [Version 0.7 Course Materials](Version-0.7-Course-Materials-for-Reaction-) — Syllabus prototype, five-capability framework, and course architecture
