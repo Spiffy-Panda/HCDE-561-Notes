@@ -11,3 +11,4 @@ Running notes from each HCDE 561 session — discussion points, frameworks, key 
 | Week | Topic |
 | :--- | :--- |
 | [Session 2](class-notes/session-2) | TED Talk Discussion (Wen vs Harris), Extraction (Capability 1) |
+| [Session 3](class-notes/session-3) | Workflow Adaptation (The Doing), Compliance & Safety (The Breaking) |

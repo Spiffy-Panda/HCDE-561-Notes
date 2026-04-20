@@ -11,3 +11,4 @@ Weekly reading responses and AI-assisted analysis of assigned course readings fo
 | Week | Topic |
 | :--- | :--- |
 | [Session 1](reading-artifacts/session-1) | Gemini conversation, *The Weight of the Void* reflection |
+| [Session 3](reading-artifacts/session-3) | Zillow iBuying failure — AI vs. labor commentary |
