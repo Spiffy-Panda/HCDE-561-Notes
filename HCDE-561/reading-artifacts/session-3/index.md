@@ -12,7 +12,7 @@ title: "Session 3 — Reading Artifacts"
 
 ## RE: Why the iBuying algorithms failed Zillow, and what it says about the business world's love affair with AI
 
-![Political cartoon: an investor at a desk with stock reports, flanked by an armored AI figure looming behind him and a crowd of workers holding "Worker Rights / Unity" signs on the other side.](images/investor-ai-union-cartoon.png)
+![Political cartoon: an investor at a desk with stock reports, flanked by an armored AI figure looming behind him and a crowd of workers holding "Worker Rights / Unity" signs on the other side.](reading-artifacts/session-3/images/investor-ai-union-cartoon.png)
 
 ## Commentary
 
