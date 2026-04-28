@@ -24,7 +24,8 @@ title: "Session 5 — In-Class Notes"
 
 - [Work Context](class-notes/session-5/work-context) — Personal/professional context dump used to seed AI memory for week 5 work
 - [Handouts](class-notes/session-5/handouts) — Files distributed in or for this session
-- [Workflow vs Agent — Exercise Prompt](class-notes/session-5/workflow-vs-agent-exercise) — In-class exercise prompt referencing an Anthropic design package
+
+The "Workflow vs. Agent" reading and offline artifact lives under [Session 5 Reading Artifacts](reading-artifacts/session-5).
 
 ---
 
